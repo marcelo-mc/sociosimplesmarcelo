@@ -14,8 +14,8 @@ Fluxograma e metodologia:
 miro.com
 
 HTML, CSS, ajustes no site:
-Visual Studio Code
-Sublime Text
+Visual Studio Code;
+Sublime Text;
 Neflify (Ajustes no site)
 
 Conteúdo:
